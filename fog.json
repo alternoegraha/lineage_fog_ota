@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "",
-            "filename": "",
-            "id": "",
+            "datetime": 1748007743,
+            "filename": "lineage-22.2-20250523-UNOFFICIAL-fog.zip",
+            "id": "2151df446eae0f1c3be695204f0cd6d8",
             "romtype": "UNOFFICIAL",
-            "size": "",
-            "url": "",
+            "size": 1288204156,
+            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-22.2-20250523-UNOFFICIAL-fog/lineage-22.2-20250523-UNOFFICIAL-fog.zip",
             "version": "22.2"
         }
     ]
