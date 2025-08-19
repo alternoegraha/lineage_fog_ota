@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1754634481,
-            "filename": "lineage-22.2-20250808-UNOFFICIAL-fog.zip",
-            "id": "9662cc1819b988f5721b7a0a5337c18f",
-            "romtype": "UNOFFICIAL",
-            "size": 1531692358,
-            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-22.2-20250808-UNOFFICIAL-fog/lineage-22.2-20250808-UNOFFICIAL-fog.zip",
-            "version": "22.2"
+            "datetime": 1755568662,
+            "filename": "axion-2.0-BETA-20250819-COMMUNITY-GMS-fog.zip",
+            "id": "64af1605feb85a2795f7b1f2add53fd7",
+            "romtype": "COMMUNITY",
+            "size": 1569475220,
+            "url": "https://github.com/alternoegraha/releases/releases/download/axion-2.0-BETA-20250819-COMMUNITY-GMS-fog/axion-2.0-BETA-20250819-COMMUNITY-GMS-fog.zip",
+            "version": "2.0"
         }
     ]
 }
