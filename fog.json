@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1755599226,
-            "filename": "axion-2.0-BETA-20250819-COMMUNITY-GMS-fog.zip",
-            "id": "0ceab320b9a651acc242f2e87c600a4d",
+            "datetime": 1755658903,
+            "filename": "axion-2.0-BETA-20250820-COMMUNITY-GMS-fog.zip",
+            "id": "865cf4c4059dd4ffb6319bdb5bc3a605",
             "romtype": "COMMUNITY",
-            "size": 1567618200,
-            "url": "https://github.com/alternoegraha/releases/releases/download/axion-2.0-BETA-20250819-COMMUNITY-GMS-fog-rebuild/axion-2.0-BETA-20250819-COMMUNITY-GMS-fog.zip",
+            "size": 1568857316,
+            "url": "https://github.com/alternoegraha/releases/releases/download/axion-2.0-BETA-20250820-COMMUNITY-GMS-fog/axion-2.0-BETA-20250820-COMMUNITY-GMS-fog.zip",
             "version": "2.0"
         }
     ]
