@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1760255391,
+            "filename": "lineage-23.0-20251012-UNOFFICIAL-fog.zip",
+            "id": "06084c230b2e60a57ed130d830bb59dd",
+            "romtype": "UNOFFICIAL",
+            "size": 1336871504,
+            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.0-20251012-UNOFFICIAL-fog-rebuild/lineage-23.0-20251012-UNOFFICIAL-fog.zip",
+            "version": "23.0"
+        }
+    ]
+}
