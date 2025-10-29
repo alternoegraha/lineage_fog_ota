@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1760941436,
-            "filename": "lineage-23.0-20251020-UNOFFICIAL-fog.zip",
-            "id": "b0aaf5f7dd29a56473ce24770f38265b",
+            "datetime": 1761711496,
+            "filename": "lineage-23.0-20251029-UNOFFICIAL-fog.zip",
+            "id": "0d37575c112d69a57ef38b72a1c16c9d",
             "romtype": "UNOFFICIAL",
-            "size": 1363877111,
-            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.0-20251020-UNOFFICIAL-fog/lineage-23.0-20251020-UNOFFICIAL-fog.zip",
+            "size": 1364486341,
+            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.0-20251029-UNOFFICIAL-fog/lineage-23.0-20251029-UNOFFICIAL-fog.zip",
             "version": "23.0"
         }
     ]
