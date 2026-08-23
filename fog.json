@@ -2,20 +2,12 @@
     "response": [
         {
             "datetime": 1787481558,
-            "files": [
-                {
-                    "filename": "lineage-23.2-20260823-UNOFFICIAL-fog.zip",
-                    "os_patch_level": "2026-08-01",
-                    "os_sdk_level": 36,
-                    "id": "9b1e48b5384f9d3e6ece47fdf4f8fa5f",
-                    "size": 1090759956,
-                    "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.2-20260823-UNOFFICIAL-fog/lineage-23.2-20260823-UNOFFICIAL-fog.zipp"
-                }
-            ],
-            "type": "UNOFFICIAL",
+            "filename": "lineage-23.2-20260823-UNOFFICIAL-fog.zip",
+            "id": "9b1e48b5384f9d3e6ece47fdf4f8fa5f",
+            "romtype": "UNOFFICIAL",
+            "size": 1090759956,
+            "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.2-20260823-UNOFFICIAL-fog/lineage-23.2-20260823-UNOFFICIAL-fog.zip",
             "version": "23.2"
         }
     ]
 }
-
-
