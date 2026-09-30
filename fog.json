@@ -1,17 +1,17 @@
 [
     {
-        "datetime": 1789990916,
+        "datetime": 1790727878,
         "files": [
             {
-                "filename": "lineage-23.2-20260921-UNOFFICIAL-fog.zip",
-                "sha256": "464f29193caa079c977950b8f9f6951e97428d52d29f29ae755d5318017ce8ed",
+                "filename": "lineage-24.0-20260930-UNOFFICIAL-fog.zip",
+                "sha256": "99f14ccc87e471f0b2dbf9010b83ea9017a45a0c8fde1aaa7c8afcaabeca3006",
                 "os_patch_level": "2026-09-01",
-                "os_sdk_level": 36,
-                "size": 1091256486,
-                "url": "https://github.com/alternoegraha/releases/releases/download/lineage-23.2-20260921-UNOFFICIAL-fog/lineage-23.2-20260921-UNOFFICIAL-fog.zip"
+                "os_sdk_level": 37,
+                "size": 1124905818,
+                "url": "https://github.com/alternoegraha/releases/releases/download/lineage-24.0-20260930-UNOFFICIAL-fog/lineage-24.0-20260930-UNOFFICIAL-fog.zip"
             }
         ],
         "type": "unofficial",
-        "version": "23.2"
+        "version": "24.0"
     }
 ]
